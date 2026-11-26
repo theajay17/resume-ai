@@ -1,11 +1,11 @@
-<p align="center"><img src="assets/banner.svg" alt="Resume Build — AI resume builder with ATS score checker & cover letters" width="100%"/></p>
+<p align="center"><img src="assets/banner.svg" alt="Resume Builder — AI resume builder with ATS score checker & cover letters" width="100%"/></p>
 <p align="center"><a href="https://play.google.com/store/apps/details?id=com.resumeai.resume_ai"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="72"/></a></p>
 <p align="center"><img src="https://img.shields.io/badge/status-live_on_Google_Play-22c55e?style=flat-square" alt="status"/> <img src="https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/> <img src="https://img.shields.io/badge/source-private-555?style=flat-square&logo=github" alt="source private"/> <img src="https://img.shields.io/badge/by-AJAY_LABs-111?style=flat-square" alt="AJAY LABs"/></p>
 ---
 
 ## ✨ Overview
 
-Resume Build is an all-in-one resume builder and CV maker for freshers and professionals. It combines a step-by-step builder, ATS-friendly templates, an **ATS score checker** for existing resumes, and **AI writing assistance** — then exports a print-ready A4 PDF in one tap.
+Resume Builder is an all-in-one resume builder and CV maker for freshers and professionals. It combines a step-by-step builder, ATS-friendly templates, an **ATS score checker** for existing resumes, and **AI writing assistance** — then exports a print-ready A4 PDF in one tap.
 
 ## 🚀 Features
 
@@ -31,13 +31,13 @@ Resume Build is an all-in-one resume builder and CV maker for freshers and profe
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/P11kOPyAPYAk-bYHgPGZqCOTu4o-Apy1lu0aDkAambWEOjUlEVMURcSy3YMA1vxEXTG2qIki5J0RjiAtUSJHhg=w400" width="200" alt="Resume Build screenshot 1"/>
-  <img src="https://play-lh.googleusercontent.com/E5Gy2umXDqXh5Lh2xSp37Mo8bm42D_DgpxpYHvXmb4Llq-fcjt5dZQ-suSSpG55CapQq7FnVCTA4aAlFGwI521o=w400" width="200" alt="Resume Build screenshot 2"/>
-  <img src="https://play-lh.googleusercontent.com/ldp8-sjCtODBQdnnadftnR0-oCm5slIpsX4enS8dcWUe0d00RLGqf2jrQ7jBTiajSzMwdKPhSFpCoExKKW5z=w400" width="200" alt="Resume Build screenshot 3"/>
+  <img src="https://play-lh.googleusercontent.com/P11kOPyAPYAk-bYHgPGZqCOTu4o-Apy1lu0aDkAambWEOjUlEVMURcSy3YMA1vxEXTG2qIki5J0RjiAtUSJHhg=w400" width="200" alt="Resume Builder screenshot 1"/>
+  <img src="https://play-lh.googleusercontent.com/E5Gy2umXDqXh5Lh2xSp37Mo8bm42D_DgpxpYHvXmb4Llq-fcjt5dZQ-suSSpG55CapQq7FnVCTA4aAlFGwI521o=w400" width="200" alt="Resume Builder screenshot 2"/>
+  <img src="https://play-lh.googleusercontent.com/ldp8-sjCtODBQdnnadftnR0-oCm5slIpsX4enS8dcWUe0d00RLGqf2jrQ7jBTiajSzMwdKPhSFpCoExKKW5z=w400" width="200" alt="Resume Builder screenshot 3"/>
   <br/>
-  <img src="https://play-lh.googleusercontent.com/fCnVy3Y4-GS5UJ2_zWKiYx3TnjdlpdBCIHUFwpCZ8LUDnCheBYzPH-0dCun42AVp3oMx5RtDm_J69ID5ps6dVA=w400" width="200" alt="Resume Build screenshot 4"/>
-  <img src="https://play-lh.googleusercontent.com/MAc2Zlqd5nbuLCk2UD0HaN19ripJyEJ9Mi4JaGtpPAXIKPQRgelGpIqM3QyonAzjhzwifIrROU74Jldvy2cHBg=w400" width="200" alt="Resume Build screenshot 5"/>
-  <img src="https://play-lh.googleusercontent.com/w6BiIFHYUjh4V7DmcoWsjCoDU5fJ17pxu2VepDrGwrIboZebMxmhN4uexP9i8_7MhsyHaKxnn0-f-0RJdAav=w400" width="200" alt="Resume Build screenshot 6"/>
+  <img src="https://play-lh.googleusercontent.com/fCnVy3Y4-GS5UJ2_zWKiYx3TnjdlpdBCIHUFwpCZ8LUDnCheBYzPH-0dCun42AVp3oMx5RtDm_J69ID5ps6dVA=w400" width="200" alt="Resume Builder screenshot 4"/>
+  <img src="https://play-lh.googleusercontent.com/MAc2Zlqd5nbuLCk2UD0HaN19ripJyEJ9Mi4JaGtpPAXIKPQRgelGpIqM3QyonAzjhzwifIrROU74Jldvy2cHBg=w400" width="200" alt="Resume Builder screenshot 5"/>
+  <img src="https://play-lh.googleusercontent.com/w6BiIFHYUjh4V7DmcoWsjCoDU5fJ17pxu2VepDrGwrIboZebMxmhN4uexP9i8_7MhsyHaKxnn0-f-0RJdAav=w400" width="200" alt="Resume Builder screenshot 6"/>
 </p>
 
 ## 🧱 Tech stack
@@ -54,7 +54,7 @@ Resume Build is an all-in-one resume builder and CV maker for freshers and profe
 
 ## 🏗️ Architecture
 
-<p align="center"><img src="assets/architecture.svg" alt="Resume Build architecture diagram" width="100%"/></p>
+<p align="center"><img src="assets/architecture.svg" alt="Resume Builder architecture diagram" width="100%"/></p>
 
 ## 🔍 Engineering highlights
 
