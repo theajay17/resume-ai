@@ -1,55 +1,56 @@
 <div align="center">
 
-# Resume AI 🚀
+# Resume Build 🚀
 
 ### AI-powered resume builder for smarter job applications
 
-Create professional resumes, check ATS readiness, generate cover letters, and get AI-powered career assistance from one app.
+Build professional resumes, check ATS readiness, generate cover letters and export print-ready PDFs — from one Android app.
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Live-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.resumeai.resume_ai)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
 ---
 
-## 📱 About Resume AI
+## ✨ Features
 
-Resume AI is a mobile app built to make the resume-building process faster and easier. It combines practical career tools with AI-assisted features so users can create and improve job-application documents from one place.
+- 📄 **Step-by-step resume builder** — personal details, education, experience, skills, certifications and projects
+- 🎨 **Multiple templates** — clean, executive, creative and ATS-friendly layouts; switch anytime without losing data
+- 🎯 **ATS score checker** — upload an existing PDF/DOCX resume and get a compatibility score, keyword analysis and suggestions
+- 🤖 **AI writing assistant** — polish summaries, rewrite bullet points with action verbs, tailor to a job role
+- ✍️ **Cover letter generator** matched to your resume
+- 📤 **A4 PDF export & sharing** — download or share via email, WhatsApp, LinkedIn or Drive
+- ☁️ **Google sign-in & cloud sync** across devices
 
-## ✨ Key Features
+## 🧱 Tech stack
 
-- 📄 Professional resume creation
-- 🎯 ATS resume scoring and optimization
-- ✍️ AI-assisted cover letter generation
-- 🤖 AI career assistant
-- ⚡ Faster workflow from resume creation to job application
+| Area | Tech |
+|---|---|
+| App | Flutter, Dart, Provider |
+| AI | Anthropic Claude API, OpenRouter |
+| Document parsing | Syncfusion Flutter PDF, `archive` (DOCX) |
+| PDF generation | `pdf`, `printing` |
+| Backend | Firebase Auth (Google Sign-In), Cloud Firestore, Crashlytics |
+| Monetization | Google Mobile Ads (AdMob) — banner + interstitial with cooldown and fail-safe loading |
+| Platform | Targets Android 16 (API 36), 16 KB page-size compliant |
 
-## 🎯 Problem It Solves
+## ✅ Engineering notes
 
-Creating a strong resume often means switching between templates, ATS checkers, writing tools, and career resources. Resume AI brings these workflows together into a simpler mobile experience.
+- 67 automated tests (`flutter test`) covering AI resume flow, ad service and key screens
+- Static analysis clean (`flutter analyze`)
+- Test ads gated to debug builds to avoid invalid-traffic policy issues
+- Regular versioned releases on Google Play (currently 2.3.x)
 
-## 🚀 Product Status
+## 🔒 Source code
 
-**Live on Google Play** ✅
-
-[View Resume AI on Google Play](https://play.google.com/store/apps/details?id=com.resumeai.resume_ai)
-
-## 🧠 Development Approach
-
-This product was built using an AI-assisted development workflow covering product planning, UI/UX iteration, development, debugging, testing, and launch preparation.
-
-## 📸 Screenshots
-
-App screenshots and product previews will be added here.
-
-## 🔒 Source Code
-
-This repository is currently used as a **public product showcase**. The production source code, credentials, API keys, signing files, and other sensitive implementation details are not published here.
+This repository is a **public product showcase**. Production source, credentials, API keys and signing files are kept private.
 
 ---
 
 <div align="center">
 
-Built by [Ajay](https://github.com/theajay17) • [Connect on LinkedIn](https://www.linkedin.com/in/ajay-kumar-saw-775aa832a)
+Built by [Ajay Kumar Saw](https://github.com/theajay17) · AJAY LABs · [LinkedIn](https://www.linkedin.com/in/ajay-kumar-saw-775aa832a)
 
 </div>
