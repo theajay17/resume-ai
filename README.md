@@ -54,16 +54,7 @@ Resume Build is an all-in-one resume builder and CV maker for freshers and profe
 
 ## 🏗️ Architecture
 
-```mermaid
-flowchart LR
-  A["📱 Flutter app<br/>(Provider)"] --> B["Resume builder &<br/>template engine"]
-  B --> C["pdf / printing<br/>A4 export"]
-  A --> D["ATS checker<br/>Syncfusion PDF + DOCX parsing"]
-  D --> E["AI services<br/>Claude · OpenRouter"]
-  A --> E
-  A --> F["Firebase Auth (Google) ·<br/>Firestore sync · Crashlytics"]
-  A --> G["AdMob"]
-```
+<p align="center"><img src="assets/architecture.svg" alt="Resume Build architecture diagram" width="100%"/></p>
 
 ## 🔍 Engineering highlights
 
